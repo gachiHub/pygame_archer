@@ -1,0 +1,13 @@
+SCREEN_WIDHT = 800
+SCREEN_HEIGHT = 600
+
+RIGHT = 0
+DOWN = 1
+LEFT = 2
+UP = 3
+
+
+ALIVE = 0
+DEAD = 2
+
+
